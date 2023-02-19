@@ -1,0 +1,9 @@
+En el repo git https://github.com/pedrolp85/ex288_8.git
+hay un container file para httpd
+
+La unica instrucciones FROM
+usa el containerfile para crear una imagen, subirla a quay.io y desplegar en Openshift
+
+A continuacin crea una imagen hija, que se ejecute con usurio aletatorio, y
+despliega en openshift
+
